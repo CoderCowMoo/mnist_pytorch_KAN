@@ -7,7 +7,7 @@ References:
 - https://github.com/KindXiaoming/pykan/
 - https://arxiv.org/pdf/2404.19756v1
 
-Trouble:
+# Trouble:
 Currently having some trouble right now, with torch.reshape in the train cell.
 
 ```python
